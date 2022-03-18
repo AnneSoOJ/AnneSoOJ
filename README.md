@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnneSoOJ
+- :bell: Hi, I’m @AnneSoOJ
 - :speech_balloon: I’m interested in Text/Image/Video Analysis
 - :books: I’m currently learning Python App Development
 - :busts_in_silhouette: I’m looking to collaborate on...(still on Work In Progress)

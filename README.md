@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnneSoOJ
-- 👀 I’m interested in Text/Image/Video Analysis
+- �:books: I’m interested in Text/Image/Video Analysis
 - books: I’m currently learning Python App Development
 - 💞️ I’m looking to collaborate on...(still on Work In Progress)
 - 📫 You can reach me on Linkedin or on Twitter
